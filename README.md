@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Maiti (Ela/Dela)  
 
 💻 Programadora de Jogos e futura Engenheira de Dados  
-🎮 Atualmente trabalhando no desenvolvimento do jogo **[Hell Clock]([https://store.steampowered.com/app/1782460/Hell_Clock/])** (Steam)  
+🎮 Atualmente trabalhando no desenvolvimento do jogo [Hell Clock — Steam](https://store.steampowered.com/app/1782460/Hell_Clock/)     
 🚀 Sempre aprendendo e compartilhando projetos aqui no GitHub
 
 ---
@@ -26,8 +26,14 @@
 
 ## 📂 Projetos em Destaque  
 
-🔹 [**Monitoramento de Criptomoedas em Tempo Real**]([https://github.com/maitipc/Monitoramento_Criptomoedas])  
+🔹 [**Monitoramento de Criptomoedas em Tempo Real**](https://github.com/maitipc/Monitoramento_Criptomoedas)  
 *Kafka + MongoDB + Streamlit: ingestão assíncrona, armazenamento e dashboard interativo*  
+
+---
+
+## 🎮 Portfólio de Jogos  
+
+👉 Confira meu portfólio completo de jogos: [maitipc.github.io](https://maitipc.github.io/)  
 
 ---
 
@@ -39,5 +45,5 @@
 
 ## 🌐 Onde me encontrar  
 
-📫 [LinkedIn]([https://www.linkedin.com/in/maiti-puertas-crucelli/])  
+📫 [LinkedIn](https://www.linkedin.com/in/maiti-puertas-crucelli/)  
 📧 maitipc@hotmail.com  
