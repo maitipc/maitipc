@@ -1,12 +1,16 @@
-# 👋 Olá, eu sou Maiti (Ela/Dela)  
+# 👋 Hi, I'm Maiti (Ela/Dela | She/Her)  
+
+💻 Game Developer and aspiring Data Engineer  
+🎮 Currently working on the game [Hell Clock — Steam](https://store.steampowered.com/app/1782460/Hell_Clock/)  
+🚀 Always learning and sharing projects here on GitHub  
 
 💻 Programadora de Jogos e futura Engenheira de Dados  
-🎮 Atualmente trabalhando no desenvolvimento do jogo [Hell Clock — Steam](https://store.steampowered.com/app/1782460/Hell_Clock/)     
-🚀 Sempre aprendendo e compartilhando projetos aqui no GitHub
+🎮 Atualmente trabalhando no desenvolvimento do jogo [Hell Clock — Steam](https://store.steampowered.com/app/1782460/Hell_Clock/)  
+🚀 Sempre aprendendo e compartilhando projetos aqui no GitHub  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## 🛠️ Tech & Tools | Tecnologias & Ferramentas  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -24,26 +28,30 @@
 
 ---
 
-## 📂 Projetos em Destaque  
+## 📂 Featured Projects | Projetos em Destaque  
+
+🔹 [**Real-Time Cryptocurrency Monitoring**](https://github.com/maitipc/Monitoramento_Criptomoedas)  
+*Kafka + MongoDB + Streamlit: asynchronous ingestion, storage and interactive dashboard*  
 
 🔹 [**Monitoramento de Criptomoedas em Tempo Real**](https://github.com/maitipc/Monitoramento_Criptomoedas)  
 *Kafka + MongoDB + Streamlit: ingestão assíncrona, armazenamento e dashboard interativo*  
 
 ---
 
-## 🎮 Portfólio de Jogos  
+## 🎮 Game Portfolio | Portfólio de Jogos  
 
-👉 Confira meu portfólio completo de jogos: [maitipc.github.io](https://maitipc.github.io/)  
-
----
-
-## 🌌 Meus Interesses  
-
-✨ Astronomia | 📚 Livros | 🎬 Filmes & Séries | 📖 HQs | 🎮 Games
+👉 Check out my complete game portfolio: [maitipc.github.io](https://maitipc.github.io/)  
 
 ---
 
-## 🌐 Onde me encontrar  
+## 🌌 Interests | Interesses  
+
+✨ Astronomy | 📚 Books | 🎬 Movies & Series | 📖 Comics | 🎮 Games  
+✨ Astronomia | 📚 Livros | 🎬 Filmes & Séries | 📖 HQs | 🎮 Games  
+
+---
+
+## 🌐 Find me | Onde me encontrar  
 
 📫 [LinkedIn](https://www.linkedin.com/in/maiti-puertas-crucelli/)  
 📧 maitipc@hotmail.com  
