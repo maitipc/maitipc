@@ -1,12 +1,7 @@
 # 👋 Hi, I'm Maiti (Ela/Dela | She/Her)  
 
-💻 Game Developer and aspiring Data Engineer  
-🎮 Currently working on the game [Hell Clock — Steam](https://store.steampowered.com/app/1782460/Hell_Clock/)  
-🚀 Always learning and sharing projects here on GitHub  
-
-💻 Programadora de Jogos e futura Engenheira de Dados  
-🎮 Atualmente trabalhando no desenvolvimento do jogo [Hell Clock — Steam](https://store.steampowered.com/app/1782460/Hell_Clock/)  
-🚀 Sempre aprendendo e compartilhando projetos aqui no GitHub  
+💻 Game Developer and aspiring Data Engineer | Programadora de Jogos e futura Engenheira de Dados  
+🎮 Currently working on the game | Atualmente trabalhando no desenvolvimento do jogo [Hell Clock — Steam](https://store.steampowered.com/app/1782460/Hell_Clock/)  
 
 ---
 
