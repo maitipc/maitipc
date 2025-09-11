@@ -25,11 +25,11 @@
 
 ## 📂 Featured Projects | Projetos em Destaque  
 
-🔹 [**Real-Time Cryptocurrency Monitoring**](https://github.com/maitipc/Monitoramento_Criptomoedas)  
-*Kafka + MongoDB + Streamlit: asynchronous ingestion, storage and interactive dashboard*  
-
 🔹 [**Monitoramento de Criptomoedas em Tempo Real**](https://github.com/maitipc/Monitoramento_Criptomoedas)  
-*Kafka + MongoDB + Streamlit: ingestão assíncrona, armazenamento e dashboard interativo*  
+*Kafka + MongoDB + Streamlit: ingestão assíncrona, armazenamento e dashboard interativo.*  
+
+🔹 [**Hub de Dados**](https://maitipc.github.io/data_hub/)  
+*Um agregado de links de cursos, artigos, ferramentas e datasets para meu estudo e consultas.*  
 
 ---
 
