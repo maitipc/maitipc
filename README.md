@@ -29,7 +29,7 @@
 *Kafka + MongoDB + Streamlit: ingestão assíncrona, armazenamento e dashboard interativo.*  
 
 🔹 [**Hub de Dados**](https://maitipc.github.io/data_hub/)  
-*Um agregado de links de cursos, artigos, ferramentas e datasets para meu estudo e consultas.*  
+*Um agregado de links de cursos, artigos, datasets e explicações de ferramentas para meu estudo e consultas.*  
 
 ---
 
