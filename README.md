@@ -25,6 +25,9 @@
 
 ### 📂 Projetos em Destaque  
 
+🔹 [**Construindo uma Pipeline de Dados para Games - do Batch ao Streaming**](https://github.com/maitipc/games_analytics_pipeline)  
+*Construção de uma pipeline de dados que irá extrair algumas métricas sobre Games, com o objetivo de começar de forma simples e ir evoluindo a complexidade em etapas.* 
+
 🔹 [**Monitoramento de Criptomoedas em Tempo Real**](https://github.com/maitipc/Monitoramento_Criptomoedas)  
 *Kafka + MongoDB + Streamlit: ingestão assíncrona, armazenamento e dashboard interativo.*  
 
